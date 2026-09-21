@@ -2,7 +2,7 @@
 
 - Name: Zach Johnston
 - Email: zacharyjohnston324@u.boisestate.edu
-- Class: CS123-001
+- Class: CS425-001
 
 ## Known Bugs or Issues
 
